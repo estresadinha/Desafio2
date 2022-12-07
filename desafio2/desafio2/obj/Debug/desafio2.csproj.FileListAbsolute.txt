@@ -1,0 +1,11 @@
+C:\Users\manuele.capereira\source\repos\desafio2\desafio2\obj\Debug\desafio2.csproj.AssemblyReference.cache
+C:\Users\manuele.capereira\source\repos\desafio2\desafio2\obj\Debug\desafio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\manuele.capereira\source\repos\desafio2\desafio2\obj\Debug\desafio2.Form1.resources
+C:\Users\manuele.capereira\source\repos\desafio2\desafio2\obj\Debug\desafio2.Properties.Resources.resources
+C:\Users\manuele.capereira\source\repos\desafio2\desafio2\obj\Debug\desafio2.csproj.GenerateResource.cache
+C:\Users\manuele.capereira\source\repos\desafio2\desafio2\obj\Debug\desafio2.csproj.CoreCompileInputs.cache
+C:\Users\manuele.capereira\source\repos\desafio2\desafio2\bin\Debug\desafio2.exe.config
+C:\Users\manuele.capereira\source\repos\desafio2\desafio2\bin\Debug\desafio2.exe
+C:\Users\manuele.capereira\source\repos\desafio2\desafio2\bin\Debug\desafio2.pdb
+C:\Users\manuele.capereira\source\repos\desafio2\desafio2\obj\Debug\desafio2.exe
+C:\Users\manuele.capereira\source\repos\desafio2\desafio2\obj\Debug\desafio2.pdb
